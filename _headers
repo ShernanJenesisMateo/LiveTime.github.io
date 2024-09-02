@@ -1,0 +1,4 @@
+/* 
+  Content-Security-Policy: frame-ancestors 'none';
+  # Or use X-Frame-Options
+  # X-Frame-Options: DENY
